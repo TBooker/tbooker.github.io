@@ -26,4 +26,4 @@ He did his postdoctoral research with Mike Whitlock (UBC) and Sam Yeaman (U. Cal
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Tianlin Duan</b>,  postdoctoral researcher.
+<b>Tianlin Duan</b> is a postdoctoral researcher using population genomic simulations to study the genomic footprints that the evolution of local adaptation leaves behind. Before coming to UBC, Tianlin did her PhD at the University of Uppsalla with Martin Lascoux.
