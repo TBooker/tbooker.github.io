@@ -9,7 +9,7 @@ permalink: /pictures/
 
 I have a really cool dog named Oban. I often think that she is the pinnacle of human achievement.
 
-![Puppy Dog](/images/other/OBANCOOLPUP.JPG)
-![Puppy Dog](/images/other/OBANCORN.JPG)
-![Puppy Dog](/images/other/OBANHUG.JPG)
-![Puppy Dog](/images/other/OBAN_BERRY.JPG)
+<img src="/images/other/OBANCOOLPUP.JPG" alt="drawing" width="200"/>
+<img src="/images/other/OBANCORN.JPG" alt="drawing" width="300"/>
+<img src="/images/other/OBANHUG.JPG" alt="drawing" width="200"/>
+<img src="/images/other/OBAN_BERRY.jpg" alt="drawing" width="200"/>
