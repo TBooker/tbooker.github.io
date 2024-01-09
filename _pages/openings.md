@@ -5,5 +5,3 @@ excerpt: "Join Us"
 sitemap: false
 permalink: /vacancies
 ---
-
-# Open positions
