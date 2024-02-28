@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-## **Current recruitment opportunities**
+## **Current opportunities**
 
 We are looking for MSc or PhD students to start in 2024/2025. Students with interests in evolutionary genetics, ecology, forestry and conservation management are encouraged to apply. The position will be based in Vancouver, British Columbia.
 
