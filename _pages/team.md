@@ -16,15 +16,23 @@ permalink: /team/
 
 Tom is an assistant professor in the Department of Forest and Conservation Sciences in the Faculty of Forestry at UBC. His research uses population genomics and evolutionary biology to study adaptation. He did his postdoctoral research with Mike Whitlock (UBC) and Sam Yeaman (U. Calgary). Tom got his PhD from the University of Edinburgh, working with Peter Keightley and Brian Charlesworth. He did the MSc in Quantitative Genetics and Genome Analsis at the University of Edinburgh under the supervision of Deborah Charlesworth. He did an undergraduate degree in Ecology at the University of Stirling.
 
-</div>
+<br>
 
+<div class="col-sm-12 clearfix" style="margin-bottom:70px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/abi.jpg" class="img-responsive" width="20%" style="float: left" />
+<b>Abi Brown</b>
+ MSc Student. <br>
+
+Abi Brown is an MSc student working on identifying environmental and ecological drivers of local adaptation in forest trees through analysis of provenance trial data. Abi previously graduated from the BSc in Conservation program in Forestry at UBC. Aside from being a huge plant nerd, they are also passionate about birding, fibre arts, and painting :)
 
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20%" style="float: left" />
 
-<b>Tianlin Duan</b> is a postdoctoral researcher using population genomic simulations to study the genomic footprints that the evolution of local adaptation leaves behind. Before coming to UBC, Tianlin did her PhD at the University of Uppsalla with Martin Lascoux.
+<b>Tianlin Duan</b> 
+Postdoc. <br>
+Tianlin is a postdoctoral researcher using population genomic simulations to study the genomic footprints that the evolution of local adaptation leaves behind. Before coming to UBC, Tianlin did her PhD at the University of Uppsalla with Martin Lascoux.
 
 
 <br>
@@ -48,12 +56,3 @@ I’m a MSc student in the Booker lab. My project is to assemble a reference gen
 I am from Halifax, NS and completed my BSc (Hons) at Dalhousie University (class of 2024). In my spare time, I enjoy nature photography, hiking, reading, writing, and anything crafty (knitting, crochet, cross-stitch, you name it). I love coffee, pasta, and my two pets, Alice and Riley (see pets page for photos)!
 
 
-
-<br>
-
-<div class="col-sm-12 clearfix" style="margin-bottom:70px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/abi.jpg" class="img-responsive" width="20%" style="float: left" />
-<b>Abi Brown</b>
- MSc Student. <br>
-
-Abi Brown is an MSc student working on identifying environmental and ecological drivers of local adaptation in forest trees through analysis of provenance trial data. Abi previously graduated from the BSc in Conservation program in Forestry at UBC. Aside from being a huge plant nerd, they are also passionate about birding, fibre arts, and painting :)
