@@ -42,7 +42,7 @@ Tianlin is a postdoctoral researcher using population genomic simulations to stu
 <b>Chaebin Lee</b>
  PhD Student. <br>
 
-Chaebin is a PhD student using population genomics to study the evolution of local adaptation in the context of population range expansion. 
+Chaebin is a PhD student using population genomics to study the evolution of local adaptation in forest trees, particularly in the context of population range expansion. Her research interests broadly span plant molecular evolution and conservation genetics, driven by the goal of finding solutions to the global challenges facing trees through the lens of evolutionary biology and conservation programs. Before joining the Booker Lab, she earned her BSc and MSc in Forest Environment Science at Seoul National University under the supervision of Kyu-Suk Kang. Chaebin has also gained research experience at the National Institute of Forest Science in Korea and was engaged with UNESCO's Man and Biosphere (MAB) program in France, contributing to biodiversity projects.
 
 <br>
 
