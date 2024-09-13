@@ -21,3 +21,9 @@ Meg has a cat/dog combo. Pretty cute...
 
 <img src="/images/other/meg_alice.jpg" alt="drawing" width="300"/>
 <img src="/images/other/meg_riley.jpg" alt="drawing" width="300"/>
+
+# Romeo
+
+Abi has a pup called Romeo. Pretty majestic: 
+
+<img src="/images/other/romeo.jpg" alt="drawing" width="300"/>
