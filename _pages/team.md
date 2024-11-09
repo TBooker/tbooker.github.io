@@ -10,7 +10,7 @@ permalink: /team/
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tom.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tom.jpg" class="img-responsive" width="20" height="30" style="float: left" />
 <b>Tom Booker</b>
  principal investigator (email: thomas.booker [at] ubc [dot] ca). <br>
 
@@ -19,7 +19,7 @@ Tom is an assistant professor in the Department of Forest and Conservation Scien
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/abi.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/abi.jpg" class="img-responsive" width="20" height="30" style="float: left" />
 <b>Abi Brown</b>
  MSc Student. <br>
 
@@ -29,7 +29,7 @@ Abi Brown is an MSc student working on identifying environmental and ecological 
 
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/chaebin.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/chaebin.jpg" class="img-responsive" width="20" height="30" style="float: left" />
 <b>Chaebin Lee</b>
  PhD Student. <br>
 
@@ -38,7 +38,7 @@ Chaebin is a PhD student using population genomics to study the evolution of loc
 <br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/meg.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/meg.jpg" class="img-responsive" width="20" height="30" style="float: left" />
 <b>Meg Smith</b>
  MSc Student. <br>
 
@@ -51,7 +51,7 @@ I am from Halifax, NS and completed my BSc (Hons) at Dalhousie University (class
 
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20" height="30" style="float: left" />
 
 <b>Tianlin Duan</b> 
 Postdoc. <br>
