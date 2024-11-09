@@ -27,15 +27,6 @@ Abi Brown is an MSc student working on identifying environmental and ecological 
 
 <br>
 
-<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20%" style="float: left" />
-
-<b>Tianlin Duan</b> 
-Postdoc. <br>
-Tianlin is a postdoctoral researcher using population genomic simulations to study the genomic footprints that the evolution of local adaptation leaves behind. Before coming to UBC, Tianlin did her PhD at the University of Uppsalla with Martin Lascoux.
-
-
-<br>
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/chaebin.jpg" class="img-responsive" width="20%" style="float: left" />
@@ -55,4 +46,15 @@ I’m a MSc student in the Booker lab. My project is to assemble a reference gen
  
 I am from Halifax, NS and completed my BSc (Hons) at Dalhousie University (class of 2024). In my spare time, I enjoy nature photography, hiking, reading, writing, and anything crafty (knitting, crochet, cross-stitch, you name it). I love coffee, pasta, and my two pets, Alice and Riley (see pets page for photos)!
 
+
+## Alumni
+
+
+<div class="col-sm-12 clearfix" style="margin-bottom:50px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20%" style="float: left" />
+
+<b>Tianlin Duan</b> 
+Postdoc. <br>
+
+Tianlin is a postdoctoral researcher using population genomic simulations to study the genomic footprints that the evolution of local adaptation leaves behind. Before coming to UBC, Tianlin did her PhD at the University of Uppsala with Martin Lascoux. She loved it so much she decided to go back for another postdoc!
 
