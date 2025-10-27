@@ -74,13 +74,11 @@ Teague is an undergraduate working on the genomic architechture of local adaptat
 
 
 
-
-
 ## Alumni
 
 
 <div class="col-sm-12 clearfix" style="margin-bottom:50px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="20" height="30" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/tianlin.jpg" class="img-responsive" width="40" height="60" style="float: left" />
 
 <b>Tianlin Duan</b> 
 Postdoc. <br>
