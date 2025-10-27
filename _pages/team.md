@@ -22,7 +22,7 @@ Tom is an assistant professor in the Department of Forest and Conservation Scien
 
 <div class="col-sm-12 clearfix" style="margin-bottom:70px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/abi.jpg" class="img-responsive" width="180" height="270" style="float: left" />
-<b>Abi Brown (she/her) - MSc Student</br>
+<b>Abi Brown (she/her) - MSc Student
 
 Abi is an MSc student working on identifying environmental and ecological drivers of local adaptation in forest trees through Bayesian analysis of provenance trial data. Abi previously graduated from the BSc in Conservation program in Forestry at UBC. Aside from being a huge plant nerd, they are also passionate about birding, fibre arts, and painting :)
 
